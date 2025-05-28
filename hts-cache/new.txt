@@ -1,0 +1,7 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:19:16	1903/1903	---M-Z	404	error ('Not%20Found')	text/html	etag:%22119f-6800f292-a01bce7ecd00f45c;gz%22	https://bep20usdt.in/robots.txt		(from )
+14:19:16	1589/1589	---M-Z	200	added ('OK')	text/html	etag:%22635-6802048c-7dae800ce97dacc8;gz%22	https://bep20usdt.in/	C:/My%20Web%20Sites/BEP20/bep20usdt.in/index.html	(from )
+14:19:16	4511/4511	---M-Z	404	error ('Not%20Found')	text/html	etag:%22119f-6800f292-a01bce7ecd00f45c;gz%22	https://bep20usdt.in/favicon.png	C:/My%20Web%20Sites/BEP20/bep20usdt.in/favicon.png	(from https://bep20usdt.in/)
+14:19:16	1125/1125	---M-Z	200	added ('OK')	text/css	etag:%22465-6802048c-5cc5894214e49586;gz%22	https://bep20usdt.in/styles.css	C:/My%20Web%20Sites/BEP20/bep20usdt.in/styles.css	(from https://bep20usdt.in/)
+14:19:17	642428/642428	---MCZ	200	added ('OK')	application/javascript	etag:W/%229cd7c-M9qpM1YeVfmYjiviVEgHj5fvDbI%22	https://cdn.jsdelivr.net/npm/web3/dist/web3.min.js	C:/My%20Web%20Sites/BEP20/cdn.jsdelivr.net/npm/web3/dist/web3.min.js	(from https://bep20usdt.in/)
+14:19:17	5542/5542	---M-Z	200	added ('OK')	application/x-javascript	etag:%2215a6-68317f15-dd0cdd4b1c4d27e9;gz%22	https://bep20usdt.in/script.js	C:/My%20Web%20Sites/BEP20/bep20usdt.in/script.js	(from https://bep20usdt.in/)
